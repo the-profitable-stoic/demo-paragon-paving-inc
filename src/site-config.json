@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Paragon Paving Inc",
+    "phone": "+17574610970",
+    "category": "paving contractor",
+    "city": "Virginia Beach",
+    "state": "VA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Virginia Beach's Paving Experts",
+      "heroSubline": "Durable paving solutions built to withstand the Hampton Roads climate. Quality workmanship, guaranteed.",
+      "aboutTitle": "Decades of Paving Excellence",
+      "aboutText": [
+        "Paragon Paving Inc. has been laying the groundwork for Virginia Beach businesses and homes for over a decade. Founded by local paving veterans, we understand the unique challenges our coastal environment presents – from salt air corrosion to hurricane-force weather. We've built our reputation on providing lasting solutions that stand the test of time.",
+        "We believe in doing the job right the first time. That means using only the highest-quality materials, employing skilled craftsmen, and adhering to strict industry standards. Our commitment to excellence ensures a smooth, durable, and attractive surface, whether it's a commercial parking lot or a residential driveway.",
+        "Paragon Paving is deeply invested in the Virginia Beach community. We source materials locally whenever possible and actively support local charities and initiatives. When you choose us, you're not just getting superior paving – you're supporting a business that cares about its neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Virginia Beach's climate and soil conditions, ensuring lasting results."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the best asphalt, concrete, and paving stones for superior durability."
+        },
+        {
+          "title": "Experienced Crews",
+          "description": "Our skilled team delivers precise installation and meticulous attention to detail."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work and ensure your complete satisfaction with every project."
+        }
+      ],
+      "ctaHeadline": "Ready to Get Started?",
+      "ctaSubline": "Contact us today for a free estimate and let us pave the way for your next project."
+    },
+    "services": [
+      {
+        "slug": "asphalt-paving",
+        "name": "Asphalt Paving",
+        "shortDescription": "Durable and cost-effective asphalt paving for driveways, parking lots, and more.",
+        "description": "Asphalt paving remains a popular choice for both residential and commercial properties due to its durability, cost-effectiveness, and ease of maintenance. At Paragon Paving, we utilize the latest techniques and equipment to ensure a smooth, long-lasting asphalt surface. Our asphalt paving services include site preparation, grading, base installation, asphalt application, and compaction. We carefully assess the specific needs of each project to determine the optimal asphalt mix and thickness, ensuring maximum durability and resistance to Virginia Beach's weather conditions.\n\nFrom driveways and walkways to parking lots and roadways, we handle projects of all sizes with precision and expertise. We understand the importance of proper drainage and slope to prevent water damage and extend the life of your asphalt pavement. Our experienced team meticulously prepares the subgrade to ensure a stable foundation and prevent cracking or shifting over time.\n\nWe also offer asphalt repair and maintenance services to keep your pavement looking its best and prevent costly repairs down the road. Whether you need crack filling, patching, or sealcoating, we have the solutions to protect your investment and extend the life of your asphalt pavement.",
+        "process": [
+          "Step 1: Site Evaluation & Preparation",
+          "Step 2: Grading and Base Installation",
+          "Step 3: Asphalt Application and Compaction",
+          "Step 4: Quality Control and Finishing Touches"
+        ],
+        "benefits": [
+          "Durable and Long-lasting",
+          "Cost-Effective Solution",
+          "Smooth and Uniform Surface",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How long does asphalt paving last?",
+            "answer": "With proper maintenance, asphalt paving can last 15-20 years or more in the Virginia Beach climate."
+          },
+          {
+            "question": "What is the best time of year for asphalt paving?",
+            "answer": "The ideal time for asphalt paving is during the warmer months, typically from spring to fall, when temperatures are consistently above freezing."
+          },
+          {
+            "question": "How soon can I drive on my new asphalt driveway?",
+            "answer": "We recommend waiting at least 24-48 hours before driving on your new asphalt driveway to allow it to fully cure and harden."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-paving",
+        "name": "Concrete Paving",
+        "shortDescription": "Versatile and durable concrete paving for patios, sidewalks, and foundations.",
+        "description": "Concrete paving offers a versatile and durable solution for a wide range of applications, from patios and sidewalks to foundations and retaining walls. Paragon Paving specializes in providing high-quality concrete paving services that meet the specific needs of our clients in Virginia Beach. We use only the finest concrete mixes and employ skilled craftsmen to ensure a smooth, strong, and attractive surface.\n\nOur concrete paving services include site preparation, formwork, concrete pouring, finishing, and curing. We carefully consider factors such as soil conditions, drainage, and load requirements to ensure the long-term stability and performance of your concrete pavement. We also offer a variety of decorative concrete options, including stamped concrete, colored concrete, and exposed aggregate, to enhance the aesthetic appeal of your property.\n\nWhether you're looking to create a beautiful outdoor living space or need a reliable foundation for your new home, Paragon Paving has the expertise and experience to deliver exceptional results. We understand the importance of proper concrete curing to prevent cracking and ensure maximum strength. Our team meticulously monitors the curing process to ensure your concrete pavement stands the test of time.",
+        "process": [
+          "Step 1: Site Preparation and Formwork",
+          "Step 2: Concrete Pouring and Leveling",
+          "Step 3: Finishing and Texturing",
+          "Step 4: Curing and Sealing"
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Versatile Design Options",
+          "Low Maintenance",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How long does concrete paving last?",
+            "answer": "With proper installation and maintenance, concrete paving can last 30 years or more."
+          },
+          {
+            "question": "What is the difference between concrete and asphalt?",
+            "answer": "Concrete is typically more durable and longer-lasting than asphalt, but it is also more expensive. Asphalt is more flexible and easier to repair, but it may require more frequent maintenance."
+          },
+          {
+            "question": "How can I prevent my concrete from cracking?",
+            "answer": "Proper site preparation, the use of quality concrete mixes, and proper curing techniques are essential for preventing concrete cracking."
+          }
+        ]
+      },
+      {
+        "slug": "pavement-repair",
+        "name": "Pavement Repair",
+        "shortDescription": "Timely pavement repair services to address cracks, potholes, and other damage.",
+        "description": "Don't let cracks, potholes, and other pavement damage compromise the safety and appearance of your property. Paragon Paving offers comprehensive pavement repair services to address a wide range of issues and restore your pavement to its original condition. Our experienced team utilizes the latest techniques and materials to provide durable and cost-effective repairs that extend the life of your pavement.\n\nOur pavement repair services include crack filling, pothole patching, asphalt resurfacing, and concrete spall repair. We carefully assess the extent of the damage and recommend the most appropriate repair solution for your specific needs. We understand the importance of timely repairs to prevent further deterioration and minimize the risk of accidents.\n\nWhether you need to repair a small crack in your driveway or resurface an entire parking lot, Paragon Paving has the expertise and equipment to get the job done right. We use only high-quality materials and employ skilled craftsmen to ensure a seamless and long-lasting repair. We also offer preventative maintenance services to help you avoid costly repairs down the road.",
+        "process": [
+          "Step 1: Damage Assessment & Evaluation",
+          "Step 2: Surface Preparation and Cleaning",
+          "Step 3: Repair Material Application",
+          "Step 4: Compaction and Finishing"
+        ],
+        "benefits": [
+          "Improved Safety",
+          "Extended Pavement Life",
+          "Enhanced Appearance",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How often should I repair my pavement?",
+            "answer": "The frequency of pavement repair depends on the severity of the damage and the level of traffic. We recommend inspecting your pavement regularly and addressing any issues as soon as they arise."
+          },
+          {
+            "question": "What is the best way to repair a pothole?",
+            "answer": "The best way to repair a pothole is to clean out the damaged area, apply a tack coat, and then fill the pothole with a high-quality asphalt patching material."
+          },
+          {
+            "question": "How can I prevent pavement damage?",
+            "answer": "Proper drainage, regular sealcoating, and timely repairs are essential for preventing pavement damage."
+          }
+        ]
+      },
+      {
+        "slug": "sealcoating",
+        "name": "Sealcoating",
+        "shortDescription": "Protect your asphalt investment with professional sealcoating services.",
+        "description": "Sealcoating is a crucial preventative maintenance measure that protects your asphalt pavement from the damaging effects of weather, traffic, and chemicals. Paragon Paving offers professional sealcoating services that extend the life of your asphalt pavement and enhance its appearance. Our experienced team uses only high-quality sealants and applies them with precision to ensure maximum protection.\n\nSealcoating creates a protective barrier that prevents water penetration, oxidation, and chemical damage. It also helps to fill in minor cracks and imperfections, creating a smoother and more uniform surface. Regular sealcoating can significantly extend the life of your asphalt pavement and save you money on costly repairs in the long run.\n\nWe offer a variety of sealcoating options to meet the specific needs of our clients in Virginia Beach. Our team will assess the condition of your pavement and recommend the most appropriate sealant for your application. We also offer crack filling and other preparatory services to ensure a smooth and long-lasting sealcoat.",
+        "process": [
+          "Step 1: Surface Cleaning and Preparation",
+          "Step 2: Crack Filling and Repair (if needed)",
+          "Step 3: Sealant Application",
+          "Step 4: Curing and Drying"
+        ],
+        "benefits": [
+          "Extended Pavement Life",
+          "Protection from Weather and Chemicals",
+          "Enhanced Appearance",
+          "Cost-Effective Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How often should I sealcoat my asphalt pavement?",
+            "answer": "We recommend sealcoating your asphalt pavement every 2-3 years to maintain its protective barrier."
+          },
+          {
+            "question": "What is the best time of year for sealcoating?",
+            "answer": "The best time of year for sealcoating is during the warmer months, typically from spring to fall, when temperatures are consistently above freezing."
+          },
+          {
+            "question": "How long does sealcoating take to dry?",
+            "answer": "Sealcoating typically takes 24-48 hours to fully dry, depending on the weather conditions."
+          }
+        ]
+      },
+      {
+        "slug": "parking-lot-paving",
+        "name": "Parking Lot Paving",
+        "shortDescription": "Expert parking lot paving services for businesses of all sizes.",
+        "description": "A well-paved parking lot is essential for creating a positive first impression and ensuring the safety and convenience of your customers and employees. Paragon Paving specializes in providing expert parking lot paving services for businesses of all sizes in Virginia Beach. We understand the importance of proper design, drainage, and traffic flow to create a functional and attractive parking lot.\n\nOur parking lot paving services include site preparation, grading, base installation, asphalt or concrete paving, striping, and signage. We carefully consider factors such as traffic volume, vehicle weight, and drainage requirements to ensure a durable and long-lasting parking lot. We also offer a variety of pavement markings and signage options to enhance safety and accessibility.\n\nWhether you're building a new parking lot or need to resurface an existing one, Paragon Paving has the expertise and equipment to deliver exceptional results. We use only high-quality materials and employ skilled craftsmen to ensure a smooth, safe, and attractive parking lot that meets your specific needs.",
+        "process": [
+          "Step 1: Site Assessment and Design",
+          "Step 2: Grading and Base Installation",
+          "Step 3: Paving (Asphalt or Concrete)",
+          "Step 4: Striping and Signage"
+        ],
+        "benefits": [
+          "Improved Safety and Accessibility",
+          "Enhanced Appearance",
+          "Increased Property Value",
+          "Durable and Long-Lasting"
+        ],
+        "faq": [
+          {
+            "question": "What are the key considerations for parking lot paving?",
+            "answer": "Key considerations include traffic volume, vehicle weight, drainage requirements, and local regulations."
+          },
+          {
+            "question": "How much does parking lot paving cost?",
+            "answer": "The cost of parking lot paving depends on several factors, including the size of the parking lot, the type of pavement used, and the complexity of the project. Contact us for a free estimate."
+          },
+          {
+            "question": "How long does parking lot paving take?",
+            "answer": "The duration of parking lot paving depends on the size and complexity of the project. We will provide you with a detailed timeline before starting work."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-paving",
+        "name": "Driveway Paving",
+        "shortDescription": "Enhance your home's curb appeal with professional driveway paving services.",
+        "description": "Your driveway is one of the first things people see when they arrive at your home. Paragon Paving offers professional driveway paving services that enhance your home's curb appeal and provide a smooth, durable, and attractive surface for your vehicles. We understand the importance of proper drainage and slope to prevent water damage and ensure the longevity of your driveway.\n\nOur driveway paving services include site preparation, grading, base installation, asphalt or concrete paving, and decorative options such as stamped concrete and exposed aggregate. We carefully consider your budget and aesthetic preferences to create a driveway that complements your home's style and meets your specific needs. We know that many homes in the Oceanfront area have unique challenges due to the sandy soil and proximity to the ocean, and we ensure that proper techniques are used to mitigate potential issues.\n\nWhether you're building a new home or need to replace an existing driveway, Paragon Paving has the expertise and experience to deliver exceptional results. We use only high-quality materials and employ skilled craftsmen to ensure a smooth, durable, and attractive driveway that will last for years to come.",
+        "process": [
+          "Step 1: Site Preparation and Design",
+          "Step 2: Grading and Base Installation",
+          "Step 3: Paving (Asphalt or Concrete)",
+          "Step 4: Finishing and Sealing"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Durable and Long-Lasting",
+          "Smooth and Attractive Surface"
+        ],
+        "faq": [
+          {
+            "question": "What are the different types of driveway paving?",
+            "answer": "The most common types of driveway paving are asphalt and concrete. Asphalt is more cost-effective, while concrete is more durable and offers more design options."
+          },
+          {
+            "question": "How much does driveway paving cost?",
+            "answer": "The cost of driveway paving depends on several factors, including the size of the driveway, the type of pavement used, and the complexity of the project. Contact us for a free estimate."
+          },
+          {
+            "question": "How long does driveway paving take?",
+            "answer": "The duration of driveway paving depends on the size and complexity of the project. We will provide you with a detailed timeline before starting work."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Virginia Beach",
+        "slug": "virginia-beach-va",
+        "state": "VA",
+        "content": "Paragon Paving Inc is proud to serve the vibrant community of Virginia Beach, VA. We offer a full range of paving services to residential and commercial clients throughout the city, from the oceanfront to the inland neighborhoods. Our commitment to quality workmanship and customer satisfaction has made us a trusted name in paving in Virginia Beach. Whether you need a new driveway, parking lot, or asphalt repair, Paragon Paving Inc is here to help. We use only the highest quality materials and employ experienced professionals to ensure that your project is completed to the highest standards. \n\nWe understand the unique challenges of paving in a coastal environment like Virginia Beach. Our team is experienced in handling the effects of saltwater and fluctuating temperatures on asphalt and concrete. We take extra precautions to ensure that your pavement is durable and long-lasting, even in the face of these environmental factors. Choose Paragon Paving Inc for reliable paving services in Virginia Beach.",
+        "localContext": "Virginia Beach is a coastal city known for its beaches, boardwalk, and vibrant tourism industry. We understand the paving needs of both residents and businesses in this dynamic environment.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Portsmouth"
+        ]
+      },
+      {
+        "city": "Norfolk",
+        "slug": "norfolk-va",
+        "state": "VA",
+        "content": "Paragon Paving Inc extends its expert paving services to the historic city of Norfolk, VA. We cater to the diverse needs of residential and commercial properties, offering everything from driveway installations to parking lot maintenance. Our dedication to quality and customer satisfaction makes us a reliable choice for all your paving needs in Norfolk.\n\nWe understand the unique character of Norfolk, with its blend of historic architecture and modern development. Paragon Paving Inc provides paving solutions that are both functional and aesthetically pleasing, enhancing the value and appearance of your property. From cobblestone-inspired driveways to durable asphalt parking lots, we have the expertise to handle any paving project in Norfolk.",
+        "localContext": "Norfolk is a major naval hub and a city with a rich maritime history. We are familiar with the specific paving requirements of businesses and residents in this area.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Chesapeake",
+          "Portsmouth"
+        ]
+      },
+      {
+        "city": "Chesapeake",
+        "slug": "chesapeake-va",
+        "state": "VA",
+        "content": "Paragon Paving Inc is proud to offer comprehensive paving services to the growing city of Chesapeake, VA. We provide a wide range of solutions for residential and commercial clients, including new construction paving, asphalt repairs, and sealcoating. Our commitment to excellence and customer service has made us a preferred paving contractor in Chesapeake.\n\nWe understand the unique needs of the Chesapeake community, with its mix of suburban neighborhoods and rural areas. Paragon Paving Inc provides paving services that are both affordable and reliable, ensuring that your property is well-maintained and visually appealing. Whether you need a new driveway for your home or a parking lot for your business, we have the expertise to get the job done right.",
+        "localContext": "Chesapeake is a diverse city with a mix of residential, commercial, and agricultural areas. We understand the unique paving needs of each sector in this community.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Norfolk",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Portsmouth",
+        "slug": "portsmouth-va",
+        "state": "VA",
+        "content": "Paragon Paving Inc is delighted to serve the historic city of Portsmouth, VA, with top-quality paving services. We offer a full spectrum of solutions for residential and commercial properties, from driveway repairs to parking lot installations. Our commitment to excellence and customer satisfaction makes us a trusted partner for all your paving needs in Portsmouth.\n\nWe understand the unique charm of Portsmouth, with its historic architecture and waterfront location. Paragon Paving Inc provides paving solutions that are both functional and aesthetically pleasing, enhancing the beauty and value of your property. From traditional asphalt paving to decorative concrete options, we have the expertise to handle any paving project in Portsmouth.",
+        "localContext": "Portsmouth is a historic port city with a strong naval presence and a thriving arts scene. We cater to the paving needs of both residents and businesses in this vibrant community.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Suffolk",
+        "slug": "suffolk-va",
+        "state": "VA",
+        "content": "Paragon Paving Inc provides expert paving services to the growing city of Suffolk, VA. We offer a wide range of solutions for residential, commercial, and industrial clients, including new construction paving, asphalt repairs, and sealcoating. Our commitment to quality and customer satisfaction has made us a leading paving contractor in Suffolk.\n\nWe understand the unique needs of the Suffolk community, with its mix of suburban neighborhoods, rural areas, and industrial parks. Paragon Paving Inc provides paving services that are both durable and cost-effective, ensuring that your property is well-maintained and safe. Whether you need a new driveway for your home, a parking lot for your business, or paving for an industrial facility, we have the expertise to get the job done right.",
+        "localContext": "Suffolk is a large, diverse city with a mix of residential, commercial, and agricultural areas. We are familiar with the unique paving requirements of each sector in this community.",
+        "nearbyAreas": [
+          "Chesapeake",
+          "Portsmouth",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Newport News",
+        "slug": "newport-news-va",
+        "state": "VA",
+        "content": "Paragon Paving Inc is pleased to offer its professional paving services to the city of Newport News, VA. We provide a comprehensive range of solutions for residential and commercial clients, including driveway installations, parking lot repairs, and asphalt maintenance. Our dedication to quality workmanship and customer satisfaction makes us a reliable choice for all your paving needs in Newport News.\n\nWe understand the unique character of Newport News, with its rich history and thriving shipbuilding industry. Paragon Paving Inc offers paving solutions that are both functional and aesthetically pleasing, enhancing the value and appearance of your property. From durable asphalt surfaces to decorative concrete options, we have the expertise to handle any paving project in Newport News.",
+        "localContext": "Newport News is a city with a strong maritime history and a significant military presence. We understand the paving needs of both residents and businesses in this community.",
+        "nearbyAreas": [
+          "Hampton",
+          "Williamsburg",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Hampton",
+        "slug": "hampton-va",
+        "state": "VA",
+        "content": "Paragon Paving Inc is proud to serve the historic city of Hampton, VA, with top-quality paving services. We offer a full range of solutions for residential and commercial properties, from driveway repairs to parking lot installations. Our commitment to excellence and customer satisfaction makes us a trusted partner for all your paving needs in Hampton.\n\nWe understand the unique blend of history and modernity in Hampton, with its historic landmarks and vibrant waterfront. Paragon Paving Inc provides paving solutions that are both functional and aesthetically pleasing, complementing the character of the city. Whether you need a new driveway for your historic home or a durable parking lot for your business, we have the expertise to get the job done right.",
+        "localContext": "Hampton is a city with a rich history and a strong connection to the aerospace industry. We cater to the paving needs of both residents and businesses in this dynamic community.",
+        "nearbyAreas": [
+          "Newport News",
+          "Poquoson",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Poquoson",
+        "slug": "poquoson-va",
+        "state": "VA",
+        "content": "Paragon Paving Inc is dedicated to providing high-quality paving services to the city of Poquoson, VA. We offer a comprehensive range of solutions for residential and commercial clients, including driveway installations, asphalt repairs, and sealcoating. Our commitment to customer satisfaction and attention to detail makes us a trusted choice for all your paving needs in Poquoson.\n\nWe understand the unique character of Poquoson, with its small-town charm and close-knit community. Paragon Paving Inc provides paving services that are both reliable and affordable, ensuring that your property is well-maintained and visually appealing. Whether you need a new driveway for your home or repairs to your existing pavement, we have the expertise to get the job done right.",
+        "localContext": "Poquoson is a small, coastal city known for its strong community spirit and maritime heritage. We are committed to providing paving services that meet the specific needs of this area.",
+        "nearbyAreas": [
+          "Hampton",
+          "Yorktown",
+          "Newport News"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "Paragon Paving did an excellent job replacing our old, cracked driveway. They were professional, efficient, and the new asphalt looks fantastic. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Pavement Repair",
+        "text": "We had several potholes in our parking lot that needed repair. Paragon Paving came out quickly and patched them up perfectly. Great service at a fair price.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Sealcoating",
+        "text": "Paragon Paving sealcoated our driveway and it looks brand new! They were very thorough and took the time to do the job right. We'll definitely use them again.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Concrete Paving",
+        "text": "The team at Paragon Paving did an amazing job installing a concrete patio in our backyard. Their attention to detail was impressive, and we're thrilled with the final result. The stamped concrete looks great!",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Parking Lot Paving",
+        "text": "Paragon Paving repaved our entire parking lot. The job was completed on time and within budget. The new asphalt surface is a huge improvement.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "service": "Asphalt Repair",
+        "text": "I had a large crack in my asphalt driveway that was getting worse. Paragon Paving repaired it quickly and professionally. You can barely tell there was ever a crack there!",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Paragon Paving: Virginia Beach Paving Contractor",
+        "description": "Expert asphalt and concrete paving services in Virginia Beach, VA. Driveways, parking lots, repairs, and more. Free estimates!"
+      },
+      "about": {
+        "title": "About Paragon Paving | Virginia Beach, VA",
+        "description": "Learn about Paragon Paving's commitment to quality paving in Virginia Beach. Decades of experience, local expertise."
+      },
+      "services": {
+        "title": "Paving Services | Paragon Paving, Virginia Beach",
+        "description": "Comprehensive paving services in Virginia Beach: asphalt, concrete, repairs, sealcoating, parking lots, driveways. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Paragon Paving | Virginia Beach, VA",
+        "description": "Contact Paragon Paving for all your paving needs in Virginia Beach. Call us today for a free estimate!"
+      },
+      "reviews": {
+        "title": "Paragon Paving Reviews | Virginia Beach, VA",
+        "description": "Read reviews from satisfied Paragon Paving customers in Virginia Beach. Quality paving services, guaranteed satisfaction."
+      },
+      "service-areas": {
+        "title": "Service Areas | Paragon Paving, Virginia Beach, VA",
+        "description": "Paragon Paving provides paving services in Virginia Beach and surrounding areas. Check our service area coverage."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "asphalt-paving": "/images/service-asphalt-paving.webp",
+      "concrete-paving": "/images/service-concrete-paving.webp",
+      "pavement-repair": "/images/service-pavement-repair.webp",
+      "sealcoating": "/images/service-sealcoating.webp",
+      "parking-lot-paving": "/images/service-parking-lot-paving.webp",
+      "driveway-paving": "/images/service-driveway-paving.webp"
+    },
+    "servicesResponsive": {
+      "asphalt-paving": {
+        "src": "/images/service-asphalt-paving.webp",
+        "srcset": "/images/service-asphalt-paving-400w.webp 400w, /images/service-asphalt-paving-800w.webp 800w, /images/service-asphalt-paving-1200w.webp 1200w, /images/service-asphalt-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-paving": {
+        "src": "/images/service-concrete-paving.webp",
+        "srcset": "/images/service-concrete-paving-400w.webp 400w, /images/service-concrete-paving-800w.webp 800w, /images/service-concrete-paving-1200w.webp 1200w, /images/service-concrete-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pavement-repair": {
+        "src": "/images/service-pavement-repair.webp",
+        "srcset": "/images/service-pavement-repair-400w.webp 400w, /images/service-pavement-repair-800w.webp 800w, /images/service-pavement-repair-1200w.webp 1200w, /images/service-pavement-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sealcoating": {
+        "src": "/images/service-sealcoating.webp",
+        "srcset": "/images/service-sealcoating-400w.webp 400w, /images/service-sealcoating-800w.webp 800w, /images/service-sealcoating-1200w.webp 1200w, /images/service-sealcoating.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "parking-lot-paving": {
+        "src": "/images/service-parking-lot-paving.webp",
+        "srcset": "/images/service-parking-lot-paving-400w.webp 400w, /images/service-parking-lot-paving-800w.webp 800w, /images/service-parking-lot-paving-1200w.webp 1200w, /images/service-parking-lot-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-paving": {
+        "src": "/images/service-driveway-paving.webp",
+        "srcset": "/images/service-driveway-paving-400w.webp 400w, /images/service-driveway-paving-800w.webp 800w, /images/service-driveway-paving-1200w.webp 1200w, /images/service-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

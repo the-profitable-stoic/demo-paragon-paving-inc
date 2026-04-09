@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-paragon-paving-inc.dream-surge.com/sitemap-index.xml
